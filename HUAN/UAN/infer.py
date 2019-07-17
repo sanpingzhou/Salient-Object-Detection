@@ -18,7 +18,7 @@ torch.cuda.set_device(0)
 # the following two args specify the location of the file of trained model (pth extension)
 # you should have the pth file in the folder './$ckpt_path$/$exp_name$'
 ckpt_path = './ckpt'
-exp_name = 'R3Net'
+exp_name = 'UAN'
 
 args = {
     'snapshot': '6000',  # your snapshot filename (exclude extension name)
@@ -36,7 +36,7 @@ to_test = {'ecssd': ecssd_path, 'hkuis': hkuis_path, 'pascal': pascals_path, 'so
 
 
 def main():
-    net = R3Net().cuda()
+    net = UAN().cuda()
 
     print 'load snapshot \'%s\' for testing' % args['snapshot']
     net.load_state_dict(torch.load(os.path.join(ckpt_path, exp_name, args['snapshot'] + '.pth')))
