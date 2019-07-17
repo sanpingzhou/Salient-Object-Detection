@@ -1,2 +1,2 @@
 # Salient-Object-Detection
-We will upload our code soon!
+Because several of our works are under review, we have included the U-Net for salient object detection in the current version. Once the reviewing process is finished, we will release our codes as soon as possible.
