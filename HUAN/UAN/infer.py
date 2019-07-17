@@ -8,7 +8,7 @@ from torchvision import transforms
 
 from config import ecssd_path, hkuis_path, pascals_path, sod_path, dutomron_path
 from misc import check_mkdir, crf_refine, AvgMeter, cal_precision_recall_mae, cal_fmeasure
-from model import R3Net
+from unet import UNet
 
 torch.manual_seed(2018)
 
@@ -36,7 +36,7 @@ to_test = {'ecssd': ecssd_path, 'hkuis': hkuis_path, 'pascal': pascals_path, 'so
 
 
 def main():
-    net = UAN().cuda()
+    net = UNet().cuda()
 
     print 'load snapshot \'%s\' for testing' % args['snapshot']
     net.load_state_dict(torch.load(os.path.join(ckpt_path, exp_name, args['snapshot'] + '.pth')))
