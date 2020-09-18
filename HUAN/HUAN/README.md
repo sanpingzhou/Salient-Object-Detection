@@ -4,18 +4,19 @@ by Sanping Zhou, Jinjun Wang, Jimuyang Zhang, Le Wang, Dong Huang, and Nanning Z
 
 This implementation is written by Sanping Zhou at Xi'an Jiaotong University.
 
-***
 
 ## Citation
+```bibtex
 @article{zhou2020hierarchical,
-&nbsp;&nbsp;&nbsp;&nbsp;  title={Hierarchical U-Shape Attention Network for Salient Object Detection},
-&nbsp;&nbsp;&nbsp;&nbsp;  author={Zhou, Sanping and Wang, Jinjun and Zhang, Jimuyang and Wang, Le and Huang, Dong and Du, Shaoyi and Zheng, Nanning},
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Image Processing},
-&nbsp;&nbsp;&nbsp;&nbsp;  volume={29},
-&nbsp;&nbsp;&nbsp;&nbsp;  pages={8417--8428},
-&nbsp;&nbsp;&nbsp;&nbsp;  year={2020},
-&nbsp;&nbsp;&nbsp;&nbsp;  publisher={IEEE}
+ title={Hierarchical U-Shape Attention Network for Salient Object Detection},
+ author={Zhou, Sanping and Wang, Jinjun and Zhang, Jimuyang and Wang, Le and Huang, Dong and Du, Shaoyi and Zheng, Nanning},
+ journal={IEEE Transactions on Image Processing},
+ volume={29},
+ pages={8417--8428},
+ year={2020},
+ publisher={IEEE}
 }
+```
 
 ## Requirement
 * Python 2.7
