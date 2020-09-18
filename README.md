@@ -42,4 +42,4 @@ change them as you need.
 change them as you need.
 
 ## Useful links
-*R^3Net： https://github.com/zijundeng/R3Net
+*R<sup>3</sup>3Net： https://github.com/zijundeng/R3Net
