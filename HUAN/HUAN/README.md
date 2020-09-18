@@ -30,6 +30,8 @@ This implementation is written by Sanping Zhou at Xi'an Jiaotong University.
 2. Set the path of DUTS dataset in config.py
 3. Run by ```python train_HUAN3.py```
 
+You can directly [download](https://pan.baidu.com/s/1xQnbt_T5qyhfmLDkYqUkvw) the pretrained model with code snfx, then put in the pretrained_model folder.
+
 *Hyper-parameters* of training were gathered at the beginning of *train_HUAN3.py* and you can conveniently 
 change them as you need.
 
