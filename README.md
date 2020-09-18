@@ -7,13 +7,6 @@ This implementation is written by Sanping Zhou at Xi'an Jiaotong University.
 ***
 
 ## Citation
-@inproceedings{deng18r,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Deng, Zijun and Hu, Xiaowei and Zhu, Lei and Xu, Xuemiao and Qin, Jing and Han, Guoqiang and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {R$^{3}${N}et: Recurrent Residual Refinement Network for Saliency Detection},    
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {IJCAI},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
-}
-
 @article{zhou2020hierarchical,
 &nbsp;&nbsp;&nbsp;&nbsp;  title={Hierarchical U-Shape Attention Network for Salient Object Detection},
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Zhou, Sanping and Wang, Jinjun and Zhang, Jimuyang and Wang, Le and Huang, Dong and Du, Shaoyi and Zheng, Nanning},
