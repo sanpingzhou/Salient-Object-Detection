@@ -42,9 +42,4 @@ change them as you need.
 change them as you need.
 
 ## Useful links
-* [MSRA10K](http://mmcheng.net/msra10k/): our training set
-* [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html), 
-[HKU-IS](https://sites.google.com/site/ligb86/hkuis), 
-[PASCAL-S](http://cbi.gatech.edu/salobj/), 
-[SOD](http://elderlab.yorku.ca/SOD/), 
-[DUT-OMRON](http://ice.dlut.edu.cn/lu/DUT-OMRON/Homepage.htm): the five benchmark datasets
+*R^3Net： https://github.com/zijundeng/R3Net
