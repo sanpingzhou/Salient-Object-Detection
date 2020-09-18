@@ -1,2 +1,4 @@
 # Salient-Object-Detection
-In this project, we will release the code of our first work in salient object detection.
+In this project, we will release our codes in terms of salient object detection.
+
+
